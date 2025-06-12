@@ -41,6 +41,10 @@ composer require doctrine
 ```bash
 DATABASE_URL="mysql://root@127.0.0.1:3306/nombreBBDD"
 ```
+## Crear BBDD
+```bash
+php bin/console doctrine:database:create
+```
 ## Crear tabla en BBDD
 ```bash
 php bin/console make:entity
