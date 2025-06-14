@@ -62,3 +62,8 @@ php bin/console doctrine:schema:update --dump-sql --force
 ```bash
 composer install
 ```
+## Limpiar la cache
+- Es necesario reinstalar las librerias configuradas
+```bash
+php bin/console cache:clear
+```
