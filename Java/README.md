@@ -1,7 +1,7 @@
 # Apuntes básicos de Java
 Aquí se muestran los conceptos y fragmentos de código más utilizados para realizar tareas comunes en Java.
 
-## Tipos de datos básicos
+## 1. Tipos de datos básicos
 ```bash
 // Enteros
 int numEntero = 20;
@@ -17,7 +17,7 @@ char caracter = 'A';
 boolean estado = true;
 ```
 
-## Tipos de datos avanzados
+## 2. Tipos de datos avanzados
 ### String
 Cadena de texto.
 ⚠️ SIEMPRE usa comillas simples.
@@ -98,12 +98,12 @@ List<String> nombres = new ArrayList<>();
 ```
 
 
-## Leer ficheros
+## 3. Leer ficheros
 ### TXT
 ### Binarios
 ### XML
 
-## Escribir en ficheros
+## 4. Escribir en ficheros
 ### TXT
 ### Binarios
 ### XML
