@@ -98,9 +98,12 @@ List<String> nombres = new ArrayList<>();
 ```
 
 
-## Leer ficheros txt
-## Escribir en ficheros txt
-## Leer ficheros binarios
-## Escribir en ficheros binarios
-## Leer un fichero xml
-## Escribir en un fichero xml
+## Leer ficheros
+### TXT
+### Binarios
+### XML
+
+## Escribir en ficheros
+### TXT
+### Binarios
+### XML
